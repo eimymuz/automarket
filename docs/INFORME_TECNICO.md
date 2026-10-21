@@ -112,6 +112,13 @@ evitar deadlocks.
 del servidor se configura desde la app. El backend corre aparte, como tarea de Windows o en Docker, y
 está disponible aunque AutoMarket.exe esté cerrado.
 
+<<<<<<< HEAD
+=======
+**Acceso desde otra red.** `scripts/abrir_tunel.ps1` publica el backend en internet mediante un túnel de
+Cloudflare (`https://<palabras>.trycloudflare.com`), sin abrir puertos del router. Se probaron desde
+internet la API, Swagger y el WebSocket `wss://`. Antes de exponerlo se desactivaron las cuentas de prueba.
+
+>>>>>>> de6c401 (AutoMarket: sistema de agencia de autos con API central, app de escritorio y pipeline de datos)
 ## 3. Pruebas
 
 | Suite | Pruebas | Cubre |
@@ -136,6 +143,12 @@ cd scripts;        ..\backend\.venv\Scripts\python.exe demo_sincronizacion.py --
 |---|---|---|
 | Los seminuevos son **derivados** del catálogo (año, km y precio calculados), no anuncios reales | Están etiquetados como `referencia` en `data_sources` | Fuente de seminuevos que permita su uso |
 | Las fotos del catálogo se enlazan desde los sitios de las marcas | Si cambian sus URL, se pierde la imagen | Subir fotos propias desde AutoMarket.exe (ya soportado) |
+<<<<<<< HEAD
+=======
+| La dirección del túnel cambia en cada apertura y depende de que la PC esté encendida | Hay que volver a compartirla | Despliegue en la nube o túnel con dominio propio |
+| El inicio de sesión no limita los intentos | Con el backend en internet se podrían probar contraseñas | Límite de intentos; contraseña de administrador fuerte |
+| El HTML descargado de las marcas no se publica en el repositorio | Se conservan `catalog_raw.csv` y el manifiesto con SHA-256 | Regenerarlo con el paso `extract` |
+>>>>>>> de6c401 (AutoMarket: sistema de agencia de autos con API central, app de escritorio y pipeline de datos)
 | Un solo worker de uvicorn | Suficiente para el proyecto | PostgreSQL LISTEN/NOTIFY o Redis para varios workers |
 | Instalador sin firma digital | Advertencia de SmartScreen | Certificado de firma de código |
 | Configuración Docker sin ejecutar (Docker Desktop apagado) | Solo se validó la sintaxis | Probar con `docker compose up` |
