@@ -1,0 +1,41 @@
+{
+  "input_file": "C:\\Users\\eimym\\OneDrive\\Escritorio\\Tec\\Ingenieria de Datos (esp)\\Unidad 2\\sesion\\automarket\\data-pipeline\\raw\\20261019_173050\\catalog_raw.csv",
+  "input_rows": 44,
+  "nulls_raw": {
+    "body_type_raw": 29
+  },
+  "rows_after_transmission_split": 48,
+  "rejected": {
+    "marca_desconocida": 0,
+    "modelo_vacio": 0,
+    "anio_invalido": 0,
+    "precio_invalido": 0,
+    "transmision_desconocida": 0,
+    "motor_desconocido": 0
+  },
+  "rejected_rows": 0,
+  "duplicates_removed": 0,
+  "output_rows": 48,
+  "nulls_clean": {},
+  "dtypes": {
+    "brand": "str",
+    "model": "str",
+    "year": "Int64",
+    "version": "str",
+    "transmission": "str",
+    "fuel_type": "str",
+    "engine": "str",
+    "horsepower": "Int64",
+    "body_type": "str",
+    "price_mxn": "float64",
+    "colors": "str",
+    "image_url": "str",
+    "source": "str",
+    "source_url": "str",
+    "scraped_at": "datetime64[us, UTC]"
+  },
+  "by_brand": {
+    "Mazda": 33,
+    "Honda": 15
+  }
+}

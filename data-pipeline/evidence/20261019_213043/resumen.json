@@ -1,0 +1,13 @@
+{
+  "run_id": "20261019_213043",
+  "steps": {
+    "stats": {
+      "total": 121,
+      "by_brand": {
+        "Honda": 39,
+        "Mazda": 82
+      },
+      "seconds": 0.42
+    }
+  }
+}

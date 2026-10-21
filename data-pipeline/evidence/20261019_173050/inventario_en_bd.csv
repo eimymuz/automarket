@@ -1,0 +1,122 @@
+﻿stock_number,brand,model,body_type,year,version,price_mxn,mileage_km,transmission,fuel_type,status,data_kind
+AM-3713ACDA,Honda,BR-V,SUV,2026,Touring,539900.0,0,cvt,gasolina,disponible,real
+AM-813C15F2,Honda,BR-V,SUV,2025,Touring,466500.0,7400,cvt,gasolina,disponible,referencia
+AM-0ECC1067,Honda,BR-V,SUV,2026,Uniq,498900.0,0,cvt,gasolina,disponible,real
+AM-54C59258,Honda,BR-V,SUV,2023,Uniq,305000.0,41400,cvt,gasolina,disponible,referencia
+AM-299DA5FD,Honda,CR-V,SUV,2027,Touring,876900.0,0,cvt,gasolina,disponible,real
+AM-35C276EC,Honda,CR-V,SUV,2026,Touring,744500.0,14000,cvt,gasolina,disponible,referencia
+AM-EF1CC26F,Honda,CR-V,SUV,2024,Touring,517500.0,53600,cvt,gasolina,disponible,referencia
+AM-B3BAB12C,Honda,CR-V,SUV,2027,Turbo Plus,830900.0,0,cvt,gasolina,disponible,real
+AM-CCACE595,Honda,CR-V,SUV,2024,Turbo Plus,504000.0,43900,cvt,gasolina,disponible,referencia
+AM-BDD5D87A,Honda,City,Sedán,2026,Prime,440900.0,0,cvt,gasolina,disponible,real
+AM-6807E4C5,Honda,City,Sedán,2023,Prime,262000.0,51500,cvt,gasolina,disponible,referencia
+AM-172183FB,Honda,City,Sedán,2022,Prime,239500.0,38000,cvt,gasolina,disponible,referencia
+AM-D3C1E0A7,Honda,City,Sedán,2026,Sport,408900.0,0,cvt,gasolina,disponible,real
+AM-4C261F05,Honda,City,Sedán,2025,Sport,347000.0,14400,cvt,gasolina,disponible,referencia
+AM-74773F72,Honda,City,Sedán,2024,Sport,289000.0,35100,cvt,gasolina,disponible,referencia
+AM-B99B2225,Honda,City,Sedán,2026,Touring,471900.0,0,cvt,gasolina,disponible,real
+AM-DF9AAA79,Honda,City,Sedán,2025,Touring,394000.0,20300,cvt,gasolina,disponible,referencia
+AM-14317DD8,Honda,Civic,Sedán,2026,i-Style,605900.0,0,cvt,gasolina,disponible,real
+AM-319F64DC,Honda,Civic,Sedán,2025,i-Style,506000.0,20400,cvt,gasolina,disponible,referencia
+AM-87E74155,Honda,Civic,Sedán,2022,i-Style,309000.0,78200,cvt,gasolina,disponible,referencia
+AM-28955B13,Honda,HR-V,SUV,2027,Sport,658900.0,0,cvt,gasolina,disponible,real
+AM-9A5CD992,Honda,HR-V,SUV,2025,Sport,476500.0,26300,cvt,gasolina,disponible,referencia
+AM-B43582D1,Honda,HR-V,SUV,2023,Sport,336000.0,68100,cvt,gasolina,disponible,referencia
+AM-BF8BFE2F,Honda,HR-V,SUV,2027,Touring,688900.0,0,cvt,gasolina,disponible,real
+AM-82DC7B86,Honda,HR-V,SUV,2025,Touring,500500.0,24900,cvt,gasolina,disponible,referencia
+AM-E76FB154,Honda,HR-V,SUV,2027,Uniq,618900.0,0,cvt,gasolina,disponible,real
+AM-0EF158FC,Honda,HR-V,SUV,2025,Uniq,436500.0,35700,cvt,gasolina,disponible,referencia
+AM-FC01DB66,Honda,HR-V,SUV,2023,Uniq,327500.0,46900,cvt,gasolina,disponible,referencia
+AM-5E284CB0,Honda,Odyssey,Minivan,2027,Black Edition,1242900.0,0,automatica,gasolina,disponible,real
+AM-203AA0A4,Honda,Odyssey,Minivan,2026,Black Edition,1035000.0,21400,automatica,gasolina,disponible,referencia
+AM-2DBEF58E,Honda,Odyssey,Minivan,2025,Black Edition,874500.0,36600,automatica,gasolina,disponible,referencia
+AM-59936A2D,Honda,Odyssey,Minivan,2027,Touring,1212900.0,0,automatica,gasolina,disponible,real
+AM-E09336E5,Honda,Odyssey,Minivan,2025,Touring,869500.0,29800,automatica,gasolina,disponible,referencia
+AM-2C6316A1,Honda,Odyssey,Minivan,2023,Touring,618500.0,64500,automatica,gasolina,disponible,referencia
+AM-BF3B89A2,Honda,Pilot,SUV,2026,Black Edition,1270900.0,0,automatica,gasolina,disponible,real
+AM-EE75E5B9,Honda,Pilot,SUV,2023,Black Edition,736000.0,62600,automatica,gasolina,disponible,referencia
+AM-F23B84E5,Honda,Pilot,SUV,2026,Touring,1240900.0,0,automatica,gasolina,disponible,real
+AM-135C5C06,Honda,Pilot,SUV,2024,Touring,907500.0,22200,automatica,gasolina,disponible,referencia
+AM-11D89F5C,Honda,Pilot,SUV,2022,Touring,675000.0,37100,automatica,gasolina,disponible,referencia
+AM-A95B06A9,Mazda,BT-50,Pickup,2026,Signature,785900.0,0,automatica,diesel,disponible,real
+AM-774AA25D,Mazda,BT-50,Pickup,2023,Signature,485000.0,37800,automatica,diesel,disponible,referencia
+AM-5DC6ED55,Mazda,CX-3,SUV,2026,i,403900.0,0,automatica,gasolina,disponible,real
+AM-10071DEE,Mazda,CX-3,SUV,2023,i,258500.0,24100,automatica,gasolina,disponible,referencia
+AM-2C171BD1,Mazda,CX-3,SUV,2022,i,206000.0,96000,automatica,gasolina,disponible,referencia
+AM-D2A01612,Mazda,CX-3,SUV,2026,i Sport,432900.0,0,automatica,gasolina,disponible,real
+AM-1372922C,Mazda,CX-3,SUV,2025,i Sport,365000.0,16800,automatica,gasolina,disponible,referencia
+AM-AA694CE8,Mazda,CX-30,SUV,2026,Signature,585900.0,0,automatica,gasolina,disponible,real
+AM-59413D7A,Mazda,CX-30,SUV,2025,Signature,497500.0,14200,automatica,gasolina,disponible,referencia
+AM-5727F9D6,Mazda,CX-30,SUV,2024,Signature,406000.0,42200,automatica,gasolina,disponible,referencia
+AM-EF19B46D,Mazda,CX-30,SUV,2026,i,451900.0,0,automatica,gasolina,disponible,real
+AM-6C990A01,Mazda,CX-30,SUV,2024,i,323500.0,30400,automatica,gasolina,disponible,referencia
+AM-B2C81B76,Mazda,CX-30,SUV,2022,i,230500.0,65900,automatica,gasolina,disponible,referencia
+AM-31FC5AA5,Mazda,CX-30,SUV,2026,i Grand Touring,525900.0,0,automatica,gasolina,disponible,real
+AM-BB7363D6,Mazda,CX-30,SUV,2025,i Grand Touring,449500.0,11500,automatica,gasolina,disponible,referencia
+AM-FF7BE766,Mazda,CX-30,SUV,2022,i Grand Touring,268000.0,70800,automatica,gasolina,disponible,referencia
+AM-70AD7076,Mazda,CX-30,SUV,2026,i Sport,481900.0,0,automatica,gasolina,disponible,real
+AM-0FD8148E,Mazda,CX-30,SUV,2025,i Sport,413500.0,9800,automatica,gasolina,disponible,referencia
+AM-FB14AADA,Mazda,CX-30,SUV,2022,i Sport,245500.0,92500,automatica,gasolina,disponible,referencia
+AM-FD75AB1C,Mazda,CX-5,SUV,2026,Signature,734900.0,0,automatica,gasolina,disponible,real
+AM-CD86E36A,Mazda,CX-5,SUV,2025,Signature,629500.0,10700,automatica,gasolina,disponible,referencia
+AM-0C02A52E,Mazda,CX-5,SUV,2026,i Grand Touring,659900.0,0,automatica,gasolina,disponible,real
+AM-7086032D,Mazda,CX-5,SUV,2024,i Grand Touring,463000.0,37500,automatica,gasolina,disponible,referencia
+AM-ADC30C74,Mazda,CX-5,SUV,2022,i Grand Touring,342000.0,54200,automatica,gasolina,disponible,referencia
+AM-15E0484F,Mazda,CX-5,SUV,2026,i Sport,599900.0,0,automatica,gasolina,disponible,real
+AM-1E72D370,Mazda,CX-5,SUV,2023,i Sport,356500.0,51200,automatica,gasolina,disponible,referencia
+AM-C24BFD7F,Mazda,CX-5,SUV,2022,i Sport,306000.0,78300,automatica,gasolina,disponible,referencia
+AM-04AF4949,Mazda,CX-90,SUV,2026,Signature MHEV,1011900.0,0,automatica,hibrido,disponible,real
+AM-AE84D021,Mazda,CX-90,SUV,2025,Signature MHEV,862500.0,12500,automatica,hibrido,disponible,referencia
+AM-A38C0302,Mazda,CX-90,SUV,2024,Signature MHEV,725500.0,29700,automatica,hibrido,disponible,referencia
+AM-FAB85BFF,Mazda,CX-90,SUV,2026,Signature MHEV (Asientos Capitán),1011900.0,0,automatica,hibrido,disponible,real
+AM-B35712E0,Mazda,CX-90,SUV,2025,Signature MHEV (Asientos Capitán),849000.0,18700,automatica,hibrido,disponible,referencia
+AM-AC97665C,Mazda,CX-90,SUV,2022,Signature MHEV (Asientos Capitán),516000.0,77800,automatica,hibrido,disponible,referencia
+AM-B59A90EA,Mazda,MX-5,Convertible,2026,i Sport,546900.0,0,manual,gasolina,disponible,real
+AM-96943BF4,Mazda,MX-5,Convertible,2024,i Sport,383000.0,38300,manual,gasolina,disponible,referencia
+AM-CF6047D1,Mazda,MX-5 RF,Convertible,2026,i Grand Touring,646900.0,0,automatica,gasolina,disponible,real
+AM-6E4DC26B,Mazda,MX-5 RF,Convertible,2024,i Grand Touring,447000.0,42900,automatica,gasolina,disponible,referencia
+AM-5FD55ED4,Mazda,MX-5 RF,Convertible,2023,i Grand Touring,395000.0,41600,automatica,gasolina,disponible,referencia
+AM-FA639B7F,Mazda,Mazda2 Hatchback,Hatchback,2026,Signature,398900.0,0,automatica,gasolina,disponible,real
+AM-4D4DF403,Mazda,Mazda2 Hatchback,Hatchback,2023,Signature,234500.0,54800,automatica,gasolina,disponible,referencia
+AM-12132C27,Mazda,Mazda2 Hatchback,Hatchback,2022,Signature,207500.0,52700,automatica,gasolina,disponible,referencia
+AM-F9FF2FF3,Mazda,Mazda2 Hatchback,Hatchback,2026,i Grand Touring,371900.0,0,automatica,gasolina,disponible,real
+AM-82430F0C,Mazda,Mazda2 Hatchback,Hatchback,2025,i Grand Touring,309000.0,22100,automatica,gasolina,disponible,referencia
+AM-924A361E,Mazda,Mazda2 Hatchback,Hatchback,2026,i Sport,331900.0,0,automatica,gasolina,disponible,real
+AM-50086CF9,Mazda,Mazda2 Hatchback,Hatchback,2025,i Sport,276500.0,21000,automatica,gasolina,disponible,referencia
+AM-200208ED,Mazda,Mazda2 Hatchback,Hatchback,2026,i Sport,331900.0,0,manual,gasolina,disponible,real
+AM-A0C997D5,Mazda,Mazda2 Hatchback,Hatchback,2022,i Sport,169000.0,63400,manual,gasolina,disponible,referencia
+AM-F0C6C34F,Mazda,Mazda2 Sedán,Sedán,2026,Signature,398900.0,0,automatica,gasolina,disponible,real
+AM-C09EC4AE,Mazda,Mazda2 Sedán,Sedán,2025,Signature,332500.0,21100,automatica,gasolina,disponible,referencia
+AM-AE8705C5,Mazda,Mazda2 Sedán,Sedán,2026,i,301900.0,0,automatica,gasolina,disponible,real
+AM-DF277BC6,Mazda,Mazda2 Sedán,Sedán,2025,i,258500.0,10600,automatica,gasolina,disponible,referencia
+AM-0ADF6868,Mazda,Mazda2 Sedán,Sedán,2022,i,155500.0,56100,automatica,gasolina,disponible,referencia
+AM-71818C73,Mazda,Mazda2 Sedán,Sedán,2026,i,301900.0,0,manual,gasolina,disponible,real
+AM-2284CDEB,Mazda,Mazda2 Sedán,Sedán,2024,i,223000.0,18500,manual,gasolina,disponible,referencia
+AM-85A4DFFE,Mazda,Mazda2 Sedán,Sedán,2022,i,170000.0,23900,manual,gasolina,disponible,referencia
+AM-2D19B7BF,Mazda,Mazda2 Sedán,Sedán,2026,i Grand Touring,371900.0,0,automatica,gasolina,disponible,real
+AM-93E60441,Mazda,Mazda2 Sedán,Sedán,2023,i Grand Touring,220000.0,52400,automatica,gasolina,disponible,referencia
+AM-54ACF193,Mazda,Mazda2 Sedán,Sedán,2026,i Sport,331900.0,0,automatica,gasolina,disponible,real
+AM-6593420D,Mazda,Mazda2 Sedán,Sedán,2023,i Sport,207000.0,33600,automatica,gasolina,disponible,referencia
+AM-ED259019,Mazda,Mazda2 Sedán,Sedán,2026,i Sport,331900.0,0,manual,gasolina,disponible,real
+AM-4FDE93C8,Mazda,Mazda2 Sedán,Sedán,2024,i Sport,233500.0,36300,manual,gasolina,disponible,referencia
+AM-B731BEA4,Mazda,Mazda3 Hatchback,Hatchback,2026,Signature,568900.0,0,automatica,gasolina,disponible,real
+AM-B3926F63,Mazda,Mazda3 Hatchback,Hatchback,2025,Signature,480000.0,16400,automatica,gasolina,disponible,referencia
+AM-A91BFB10,Mazda,Mazda3 Hatchback,Hatchback,2024,Signature,402500.0,34500,automatica,gasolina,disponible,referencia
+AM-C3E0B290,Mazda,Mazda3 Hatchback,Hatchback,2026,i Grand Touring,498900.0,0,automatica,gasolina,disponible,real
+AM-8965B0C5,Mazda,Mazda3 Hatchback,Hatchback,2023,i Grand Touring,310500.0,34600,automatica,gasolina,disponible,referencia
+AM-2FECBEE5,Mazda,Mazda3 Hatchback,Hatchback,2026,i Sport,458900.0,0,automatica,gasolina,disponible,real
+AM-43F9662C,Mazda,Mazda3 Hatchback,Hatchback,2022,i Sport,238500.0,53100,automatica,gasolina,disponible,referencia
+AM-1B69038D,Mazda,Mazda3 Sedán,Sedán,2026,Signature,552900.0,0,automatica,gasolina,disponible,real
+AM-DC777868,Mazda,Mazda3 Sedán,Sedán,2023,Signature,321500.0,58600,automatica,gasolina,disponible,referencia
+AM-6A7783F2,Mazda,Mazda3 Sedán,Sedán,2026,i,403900.0,0,automatica,gasolina,disponible,real
+AM-A876ECE5,Mazda,Mazda3 Sedán,Sedán,2024,i,294000.0,24100,automatica,gasolina,disponible,referencia
+AM-53DD3C62,Mazda,Mazda3 Sedán,Sedán,2026,i,403900.0,0,manual,gasolina,disponible,real
+AM-F92F755E,Mazda,Mazda3 Sedán,Sedán,2024,i,284500.0,36000,manual,gasolina,disponible,referencia
+AM-205DA410,Mazda,Mazda3 Sedán,Sedán,2026,i Grand Touring,482900.0,0,automatica,gasolina,disponible,real
+AM-1BA674F5,Mazda,Mazda3 Sedán,Sedán,2024,i Grand Touring,343000.0,33300,automatica,gasolina,disponible,referencia
+AM-709BA436,Mazda,Mazda3 Sedán,Sedán,2026,i Grand Touring MHEV,502900.0,0,automatica,hibrido,disponible,real
+AM-3125B2C7,Mazda,Mazda3 Sedán,Sedán,2025,i Grand Touring MHEV,423500.0,17200,automatica,hibrido,disponible,referencia
+AM-8AB7F5AC,Mazda,Mazda3 Sedán,Sedán,2022,i Grand Touring MHEV,261000.0,54000,automatica,hibrido,disponible,referencia
+AM-E3F04F67,Mazda,Mazda3 Sedán,Sedán,2026,i Sport,442900.0,0,automatica,gasolina,disponible,real
+AM-5D24EE98,Mazda,Mazda3 Sedán,Sedán,2024,i Sport,327500.0,18100,automatica,gasolina,disponible,referencia
+AM-A4256BA2,Mazda,Mazda3 Sedán,Sedán,2022,i Sport,241500.0,36600,automatica,gasolina,disponible,referencia

@@ -1,0 +1,392 @@
+[
+  {
+    "url": "https://www.honda.mx/sitemap.xml",
+    "fetched_at": "2026-10-19T23:30:51.089421+00:00",
+    "file": "honda_mx/sitemap.xml",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 11805,
+    "sha256": "3b7741da5db902a50b501b78bd527c159400bd62ab5434ac1600237d8a13e586"
+  },
+  {
+    "url": "https://www.honda.mx/autos/city",
+    "fetched_at": "2026-10-19T23:30:53.288920+00:00",
+    "file": "honda_mx/city.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 425225,
+    "sha256": "2bdd1ef31640d0dc6ed7f8192885798a2554113b50f7f0cb9f7de889bd299a6c"
+  },
+  {
+    "url": "https://www.honda.mx/autos/odyssey",
+    "fetched_at": "2026-10-19T23:30:55.758922+00:00",
+    "file": "honda_mx/odyssey.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 419846,
+    "sha256": "e206bd18e60499d571b637449b829d39e0890e3e88ada029ce683fa1f88aa733"
+  },
+  {
+    "url": "https://www.honda.mx/autos/accord",
+    "fetched_at": "2026-10-19T23:30:58.738378+00:00",
+    "file": "honda_mx/accord.html",
+    "attempts": 2,
+    "status": "http_error",
+    "http_status": 404,
+    "bytes": 1104,
+    "sha256": "d7dd38147f4b9b7dc37469405f47631d5c77940c6e88e668c80d619a885b07c9"
+  },
+  {
+    "url": "https://www.honda.mx/autos/civic",
+    "fetched_at": "2026-10-19T23:31:03.946008+00:00",
+    "file": "honda_mx/civic.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 317398,
+    "sha256": "2de942804dfefbc1e3bd49f51db908e732ee4f3b434c13a612ea0c72dbe403b7"
+  },
+  {
+    "url": "https://www.honda.mx/autos/insight",
+    "fetched_at": "2026-10-19T23:31:05.990455+00:00",
+    "file": "honda_mx/insight.html",
+    "attempts": 1,
+    "status": "http_error",
+    "http_status": 404,
+    "bytes": 1104,
+    "sha256": "d7dd38147f4b9b7dc37469405f47631d5c77940c6e88e668c80d619a885b07c9"
+  },
+  {
+    "url": "https://www.honda.mx/autos/br-v",
+    "fetched_at": "2026-10-19T23:31:07.519176+00:00",
+    "file": "honda_mx/br-v.html",
+    "attempts": 2,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 383355,
+    "sha256": "5e630366275a197e4bd884bf490a2c1cc127785f8ff6255b07ea89d0e9228fc5"
+  },
+  {
+    "url": "https://www.honda.mx/autos/hr-v",
+    "fetched_at": "2026-10-19T23:31:14.394338+00:00",
+    "file": "honda_mx/hr-v.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 530254,
+    "sha256": "98db5b6140fd05a2139b19c59fffe2efb501281a89a3b15b7176e55d49d2c642"
+  },
+  {
+    "url": "https://www.honda.mx/autos/cr-v",
+    "fetched_at": "2026-10-19T23:31:16.222297+00:00",
+    "file": "honda_mx/cr-v.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 395598,
+    "sha256": "52b028fd5b8de15ac32d6b1569fb35dd3c07c92127c69bcea9b61567bdca1f29"
+  },
+  {
+    "url": "https://www.honda.mx/autos/pilot",
+    "fetched_at": "2026-10-19T23:31:18.087814+00:00",
+    "file": "honda_mx/pilot.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 423444,
+    "sha256": "2ae206181466abb6bd0fc1d58892be666a7bf33cc5881a8bad887ee079985939"
+  },
+  {
+    "url": "https://www.mazda.mx/sitemap.xml",
+    "fetched_at": "2026-10-19T23:31:20.012148+00:00",
+    "file": "mazda_mx/sitemap.xml",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 498477,
+    "sha256": "500a49436668022992385ad4d676ad7d47891695dfcdb086604d571568e5f1e1"
+  },
+  {
+    "url": "https://www.mazda.mx/vehiculos/mazda-2-sedan",
+    "fetched_at": "2026-10-19T23:31:23.716208+00:00",
+    "file": "mazda_mx/mazda-2-sedan.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 232570,
+    "sha256": "ac3b53968888080b73fbb3ccc9ac0ceb279b983cc4c7c369bcfa91b5bbbc0dc7"
+  },
+  {
+    "url": "https://www.mazda.mx/vehiculos/mazda-2-sedan/versiones",
+    "fetched_at": "2026-10-19T23:31:25.699942+00:00",
+    "file": "mazda_mx/mazda-2-sedan_versiones.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 170277,
+    "sha256": "9d82bc9a6ed6f87a2cb07b1fbb111c15d194ba4c623dcb27a471b1728b43388e"
+  },
+  {
+    "url": "https://www.mazda.mx/vehiculos/mazda-2-hatchback",
+    "fetched_at": "2026-10-19T23:31:27.671651+00:00",
+    "file": "mazda_mx/mazda-2-hatchback.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 231041,
+    "sha256": "dc5c317935c82f4f21b41b1617c304664c6efeac2cbc19ec5a8bc8fe4092df12"
+  },
+  {
+    "url": "https://www.mazda.mx/vehiculos/mazda-2-hatchback/versiones",
+    "fetched_at": "2026-10-19T23:31:29.674729+00:00",
+    "file": "mazda_mx/mazda-2-hatchback_versiones.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 162425,
+    "sha256": "db2af8004f02159589a8387ad1e44b685ba3ec442608c33068ec99855c8b4e2a"
+  },
+  {
+    "url": "https://www.mazda.mx/vehiculos/cx-3",
+    "fetched_at": "2026-10-19T23:31:31.693678+00:00",
+    "file": "mazda_mx/cx-3.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 218037,
+    "sha256": "91b89383d530bc81f86c72e700218416df1436c6a938b5d50635dfd6c9e776a7"
+  },
+  {
+    "url": "https://www.mazda.mx/vehiculos/cx-3/versiones",
+    "fetched_at": "2026-10-19T23:31:33.660224+00:00",
+    "file": "mazda_mx/cx-3_versiones.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 161288,
+    "sha256": "7486397f0524982f6f33c2375011e25ad9bc99dad6e6a7761c936ef90ed3d503"
+  },
+  {
+    "url": "https://www.mazda.mx/vehiculos/mazda-3-hatchback",
+    "fetched_at": "2026-10-19T23:31:35.668698+00:00",
+    "file": "mazda_mx/mazda-3-hatchback.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 236046,
+    "sha256": "bef700741c365fc7a81325a3d0b57ddce37ff11207c31360e96006af5e513555"
+  },
+  {
+    "url": "https://www.mazda.mx/vehiculos/mazda-3-hatchback/versiones",
+    "fetched_at": "2026-10-19T23:31:37.654576+00:00",
+    "file": "mazda_mx/mazda-3-hatchback_versiones.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 173941,
+    "sha256": "ea0ed8f894c63f14bf47b71898f92f793971823c0f0376767db76306b38ab826"
+  },
+  {
+    "url": "https://www.mazda.mx/vehiculos/mazda-3-sedan",
+    "fetched_at": "2026-10-19T23:31:39.651746+00:00",
+    "file": "mazda_mx/mazda-3-sedan.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 242535,
+    "sha256": "6fa1705d99b101926483cf21f7790f3906aa98dcbdeac0b0c42b836245598f83"
+  },
+  {
+    "url": "https://www.mazda.mx/vehiculos/mazda-3-sedan/versiones",
+    "fetched_at": "2026-10-19T23:31:41.645850+00:00",
+    "file": "mazda_mx/mazda-3-sedan_versiones.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 176753,
+    "sha256": "5a907d4b5617d87a30d4532e7b57e0cc6351972be2c73f8df890b1a11f3065e9"
+  },
+  {
+    "url": "https://www.mazda.mx/vehiculos/cx-90",
+    "fetched_at": "2026-10-19T23:31:43.687023+00:00",
+    "file": "mazda_mx/cx-90.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 224549,
+    "sha256": "05d038326958c72e76520ef70d7c80eb96d7b7057866e72f430ea4e49c1e0166"
+  },
+  {
+    "url": "https://www.mazda.mx/vehiculos/cx-90/versiones",
+    "fetched_at": "2026-10-19T23:31:45.652387+00:00",
+    "file": "mazda_mx/cx-90_versiones.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 186473,
+    "sha256": "e14b64ddfe606673374e7f672303d19e61a76fecac00514ae74c3c5683e05475"
+  },
+  {
+    "url": "https://www.mazda.mx/vehiculos/cx-30",
+    "fetched_at": "2026-10-19T23:31:47.671643+00:00",
+    "file": "mazda_mx/cx-30.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 237078,
+    "sha256": "abcbdc71b16ecb07cffc8b00928ea6c2e7001aaad169f863c61a1dbc2215127f"
+  },
+  {
+    "url": "https://www.mazda.mx/vehiculos/cx-30/versiones",
+    "fetched_at": "2026-10-19T23:31:49.793529+00:00",
+    "file": "mazda_mx/cx-30_versiones.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 176416,
+    "sha256": "10496a184fb42b97f348744647158380e5f0a9929c6633d2f9e19a3b432ac029"
+  },
+  {
+    "url": "https://www.mazda.mx/vehiculos/cx-5",
+    "fetched_at": "2026-10-19T23:31:51.657586+00:00",
+    "file": "mazda_mx/cx-5.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 295894,
+    "sha256": "8bce08ab4f20bc939357e26624ea096ad9d7ccee34f48846a14e515b085935ef"
+  },
+  {
+    "url": "https://www.mazda.mx/vehiculos/cx-5/compara-versiones",
+    "fetched_at": "2026-10-19T23:31:53.659886+00:00",
+    "file": "mazda_mx/cx-5_versiones.html",
+    "attempts": 2,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 177121,
+    "sha256": "5912cb4e350b8599509695a2abd615efb02bf989d3719e1b9fb0ab2a56becf57"
+  },
+  {
+    "url": "https://www.mazda.mx/vehiculos/bt-50",
+    "fetched_at": "2026-10-19T23:42:15.697128+00:00",
+    "file": "mazda_mx/bt-50.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 291158,
+    "sha256": "b7946e84b8e133e72d38d52d07b01932072c7eb155363ddc2dfa6fa4dd54e5c8"
+  },
+  {
+    "url": "https://www.mazda.mx/vehiculos/bt-50/compara-versiones",
+    "fetched_at": "2026-10-19T23:42:17.423198+00:00",
+    "file": "mazda_mx/bt-50_versiones.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 161683,
+    "sha256": "6c1c013476661504e5ab3465c67206c7884b02fe871bd7ab62eac694d2b6e075"
+  },
+  {
+    "url": "https://www.mazda.mx/vehiculos/cx-70",
+    "fetched_at": "2026-10-19T23:42:19.081029+00:00",
+    "file": "mazda_mx/cx-70.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 179391,
+    "sha256": "6b3d3fca6357378a8214dcf8c025a87549dec10850a399d09969c20b3eb4475b"
+  },
+  {
+    "url": "https://www.mazda.mx/vehiculos/cx-70/versiones",
+    "fetched_at": "2026-10-19T23:42:21.086597+00:00",
+    "file": "mazda_mx/cx-70_versiones.html",
+    "attempts": 1,
+    "status": "http_error",
+    "http_status": 404,
+    "bytes": 104382,
+    "sha256": "9215e2a83a4365a57e04c472f7db33d45c14461063c80cb2d71dec636c5baf7c"
+  },
+  {
+    "url": "https://www.mazda.mx/vehiculos/mx-5",
+    "fetched_at": "2026-10-19T23:42:23.728193+00:00",
+    "file": "mazda_mx/mx-5.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 200304,
+    "sha256": "d3a09f9727d1447ceb61a6fab9232d55434ea48c17aa7fd6e518ddcc2d8869b9"
+  },
+  {
+    "url": "https://www.mazda.mx/vehiculos/mx-5/versiones",
+    "fetched_at": "2026-10-19T23:42:25.053736+00:00",
+    "file": "mazda_mx/mx-5_versiones.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 154788,
+    "sha256": "9a0a26810061d3a24576a8058232ac0df1365fb107c7f5589293f6fe57a55a03"
+  },
+  {
+    "url": "https://www.mazda.mx/vehiculos/mx-5-rf",
+    "fetched_at": "2026-10-19T23:42:27.158898+00:00",
+    "file": "mazda_mx/mx-5-rf.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 203146,
+    "sha256": "f5ad4d02c501f928c1c6ff95f3408eff93afb4109875ecda1ad705299d34189f"
+  },
+  {
+    "url": "https://www.mazda.mx/vehiculos/mx-5-rf/versiones",
+    "fetched_at": "2026-10-19T23:42:29.072180+00:00",
+    "file": "mazda_mx/mx-5-rf_versiones.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 158042,
+    "sha256": "c566d59ba01cbecce376ae882380ba457ca9871438e176eb4c51dd953a5e425e"
+  },
+  {
+    "url": "https://www.mazda.mx/vehiculos/cx-50",
+    "fetched_at": "2026-10-19T23:42:31.619806+00:00",
+    "file": "mazda_mx/cx-50.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 292804,
+    "sha256": "0e3d6fd730f84e9a63860ce418bf4c45075fa88de6cb71382c53480654e88d81"
+  },
+  {
+    "url": "https://www.mazda.mx/vehiculos/cx-50/versiones",
+    "fetched_at": "2026-10-19T23:42:33.095779+00:00",
+    "file": "mazda_mx/cx-50_versiones.html",
+    "attempts": 1,
+    "status": "http_error",
+    "http_status": 404,
+    "bytes": 104382,
+    "sha256": "1f51cba4feeda893a6f5f11a2cff997b61e798beb9762b781d6747423d7502da"
+  },
+  {
+    "url": "https://www.mazda.mx/vehiculos/cx-90-phev",
+    "fetched_at": "2026-10-19T23:42:35.857070+00:00",
+    "file": "mazda_mx/cx-90-phev.html",
+    "attempts": 1,
+    "status": "ok",
+    "http_status": 200,
+    "bytes": 297955,
+    "sha256": "129a7c814a3f504ff4b850bc7f77f598c504a7504bfa63bb279946ddf4a1bfcc"
+  },
+  {
+    "url": "https://www.mazda.mx/vehiculos/cx-90-phev/versiones",
+    "fetched_at": "2026-10-19T23:42:37.087329+00:00",
+    "file": "mazda_mx/cx-90-phev_versiones.html",
+    "attempts": 1,
+    "status": "http_error",
+    "http_status": 404,
+    "bytes": 104387,
+    "sha256": "3add9cc95f793f985e1178926309b39c55f35f5f895c43b027f9fea10421c820"
+  }
+]

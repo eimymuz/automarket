@@ -1,0 +1,22 @@
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+backend/.env
+# Node / Electron
+desktop/node_modules/
+desktop/out/
+desktop/dist/
+desktop/release/
+# Data
+data-pipeline/raw/*.tmp
+backend/media/
+backend/logs/
+respaldos/
+.env
+*.log
+desktop/build/.icon-ico/
+# HTML de terceros (honda.mx, mazda.mx): se conserva local, no se redistribuye
+data-pipeline/raw/**/*.html
+data-pipeline/raw/**/*.xml

@@ -1,0 +1,54 @@
+# Despliegue de AutoMarket con Docker (servidor o VPS).
+#
+#   copy .env.docker.example .env        # y edita las contraseñas
+#   docker compose up -d --build          # base de datos + API
+#   docker compose --profile seed run --rm seed   # carga los vehículos del pipeline (una vez)
+#
+# PostgreSQL NO publica puertos: solo la API (servicio "api") puede conectarse a él.
+services:
+  db:
+    image: postgres:18
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: automarket
+      POSTGRES_USER: automarket_app
+      POSTGRES_PASSWORD: ${DB_PASSWORD:?Define DB_PASSWORD en .env}
+    volumes:
+      - pgdata:/var/lib/postgresql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U automarket_app -d automarket"]
+      interval: 5s
+      retries: 10
+
+  api:
+    build: ./backend
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    environment: &api-env
+      DATABASE_URL: postgresql+psycopg://automarket_app:${DB_PASSWORD}@db:5432/automarket
+      JWT_SECRET: ${JWT_SECRET:?Define JWT_SECRET en .env}
+      ENVIRONMENT: production
+      CORS_ORIGINS: ${CORS_ORIGINS:-http://localhost:5173}
+    ports:
+      - "${API_PORT:-8000}:8000"
+    volumes:
+      - media:/srv/backend/media
+
+  # Carga inicial: ejecuta el pipeline (transform -> generate -> load -> stats) con el HTML ya descargado
+  seed:
+    build: ./backend
+    profiles: ["seed"]
+    depends_on:
+      api:
+        condition: service_healthy
+    environment: *api-env
+    working_dir: /srv/data-pipeline
+    volumes:
+      - ./data-pipeline:/srv/data-pipeline
+    command: ["python", "run_pipeline.py", "--steps", "transform,generate,load,stats"]
+
+volumes:
+  pgdata:
+  media:

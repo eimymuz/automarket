@@ -1,0 +1,32 @@
+{
+  "run_id": "20261019_173050",
+  "steps": {
+    "extract": {
+      "raw_rows": 44,
+      "seconds": 709.39
+    },
+    "transform": {
+      "catalog_rows": 48,
+      "seconds": 0.09
+    },
+    "generate": {
+      "inventory_rows": 121,
+      "seconds": 0.03
+    },
+    "load": {
+      "vehicles_inserted": 121,
+      "vehicles_skipped": 0,
+      "images_inserted": 121,
+      "loaded_at": "2026-10-19T23:42:40.570645+00:00",
+      "seconds": 0.92
+    },
+    "stats": {
+      "total": 121,
+      "by_brand": {
+        "Honda": 39,
+        "Mazda": 82
+      },
+      "seconds": 0.06
+    }
+  }
+}
